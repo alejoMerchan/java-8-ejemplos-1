@@ -67,6 +67,7 @@ public class FilteringApples {
         List<Apple> inventory = new ArrayList<>();
         Apple apple1 = new Apple(50,"green");
         Apple apple2 = new Apple(100,"red");
+
         //filterApples(inventory, Apple::is)
     }
 
